@@ -1,5 +1,5 @@
 ---
-title: Anthe 1 - Venus & The Storyteller
+title: Anthe Day One
 date: 2024-05-08 08:00:00 +/-0800
 categories: [Session Summaries, Anthe Summaries]
 tags: [lore]     # TAG names should always be lowercase
