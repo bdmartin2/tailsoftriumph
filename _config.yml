@@ -25,6 +25,9 @@ description: >- # used by seo meta and the atom feed
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://bdmartin2.github.io"
 
+# For Bluesky Verification
+include: [".well-known"]
+
 github:
   username: github_username # change to your GitHub username
 
