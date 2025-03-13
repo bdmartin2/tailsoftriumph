@@ -11,6 +11,6 @@ Lynore Alwyn is a determined and dutiful tiefling cleric who tends to let her te
 
 ## Life
 
-### Name: Lynore Alwyn 
-
-#### Birthday: Ond 7th
+Name: Lynore Alwyn 
+Pronouns: She/Her/Hers
+Birthday: Ond 7th
