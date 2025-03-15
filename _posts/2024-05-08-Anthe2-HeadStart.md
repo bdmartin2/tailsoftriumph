@@ -6,8 +6,8 @@ tags: [lore]     # TAG names should always be lowercase
 
 description: Nothing like a nice bed, free breakfast, and a rolling head to start off a new adventuring group.
 image:
-  path: /assets/img/forest-bg.png
-  alt: Responsive rendering of Chirpy theme on multiple devices.
+  path: /assets/img/Anthe02Thumbnail.png
+  alt: Cover for the second session of Anthe, "Head Start". A wolf made of shadows gently stalks you through a winter forest, their glowing yellow eyes piercing through the falling snow. 
 ---
 
 ## Day Two

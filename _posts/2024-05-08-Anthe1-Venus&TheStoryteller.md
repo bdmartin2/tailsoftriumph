@@ -6,8 +6,8 @@ tags: [lore]     # TAG names should always be lowercase
 
 description: A professor, two students, a traveler, and a dead man happen upon a battle in the woods. 
 image:
-  path: /assets/img/forest-bg.png
-  alt: Responsive rendering of Chirpy theme on multiple devices.
+  path: /assets/img/Anthe01Thumbnail.png
+  alt: Cover for the first session of Anthe, "Venus & The Storyteller". A map details two continents, one on the left side of the image is larger than the one on the right. They are connected by a land bridge that goes across the ocean. 
 ---
 
 ## Day One
