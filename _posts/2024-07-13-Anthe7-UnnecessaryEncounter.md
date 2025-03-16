@@ -6,9 +6,9 @@ tags: [lore]     # TAG names should always be lowercase
 
 description: The group leaves behind the lands they have known to help their mysterious benefactors. The Kingdom of Fomoria stretches before them, an uninviting grassland to the sea.
 
-# image:
-#   path: /assets/img/Anthe06Thumbnail.png
-#   alt: Cover for the sixth session of Anthe, "The City of Blurred Borders". Natalia and Lynore peacefully outlined in a charcoal sketch as described by the session. Made by Blake. 
+image:
+  path: /assets/img/Anthe07Thumbnail.png
+  alt: Cover for the seventh session of Anthe, "Unnecessary Encounter". A road leads into the distance where a mob with fire has started an ominous smoke cloud. Made by Blake. 
 ---
 
 ## Day Five
